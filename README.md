@@ -32,9 +32,13 @@ My resume is on
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SMolodtsova13)](https://github.com/SMolodtsova13/github-readme-stats)
+
 <h3>My statistics:</h3>
 <a href="https://github-readme-stats.vercel.app/api?username=SMolodtsova13&hide=contribs&show_icons=true">
   <img  align="left" height="130" style="margin-right: 10px" src="https://github-readme-stats.vercel.app/api?username=SMolodtsova13&hide=contribs&show_icons=true" />
 </a>
+
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SMolodtsova13)](https://github.com/SMolodtsova13/github-readme-stats)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SMolodtsova13&theme=solarized_dark)
