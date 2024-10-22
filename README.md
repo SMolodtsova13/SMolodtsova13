@@ -11,6 +11,32 @@ My resume is on
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+  
+<h3> &#128736; My stack:</h3>
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray)
+![REST API](https://img.shields.io/badge/REST%20API-%23266999.svg?style=for-the-badge)
+
+
+![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
+![Gunicorn](https://img.shields.io/badge/gunicorn-%298729.svg?style=for-the-badge&logo=gunicorn&logoColor=white)
+
+
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-%2300758F.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+
+Pytest
+Unit Testing
+Docker
+Bootstrap
+CI/CD
 
 
 
@@ -30,18 +56,7 @@ My resume is on
 ![](https://img.shields.io/badge/-CI/CD-red)
 ![](https://img.shields.io/badge/-Linux-red)
 
-
-### &#129299; My statistics:
-<!-- [![Codewarrior Profile Badges](https://www.codewars.com/users/SMolodtsova13/badges/large)](https://www.codewars.com/users/SMolodtsova13) -->
-<div>
+<h3>My statistics:</h3>
 <a href="https://github-readme-stats.vercel.app/api?username=SMolodtsova13&hide=contribs&show_icons=true">
   <img  align="left" height="130" style="margin-right: 10px" src="https://github-readme-stats.vercel.app/api?username=SMolodtsova13&hide=contribs&show_icons=true" />
-</a>
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=SMolodtsova13&layout=compact">
-  <img align="left" height="130" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SMolodtsova13&layout=compact" />
-</a>
-
-
-<a href="https://github.com/SMolodtsova13">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=SMolodtsova13&show_icons=true&theme=tokyonight&hide_title=true" />
 </a>
