@@ -29,3 +29,14 @@ My resume is on
 ![](https://img.shields.io/badge/-Nginx-red)
 ![](https://img.shields.io/badge/-CI/CD-red)
 ![](https://img.shields.io/badge/-Linux-red)
+
+
+### &#129299; My statistics:
+<!-- [![Codewarrior Profile Badges](https://www.codewars.com/users/SMolodtsova13/badges/large)](https://www.codewars.com/users/SMolodtsova13) -->
+<div>
+<a href="https://github-readme-stats.vercel.app/api?username=SMolodtsova13&hide=contribs&show_icons=true">
+  <img  align="left" height="130" style="margin-right: 10px" src="https://github-readme-stats.vercel.app/api?username=SMolodtsova13&hide=contribs&show_icons=true" />
+</a>
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=SMolodtsova13&layout=compact">
+  <img align="left" height="130" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SMolodtsova13&layout=compact" />
+</a>
