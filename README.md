@@ -40,3 +40,8 @@ My resume is on
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=SMolodtsova13&layout=compact">
   <img align="left" height="130" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SMolodtsova13&layout=compact" />
 </a>
+
+
+<a href="https://github.com/SMolodtsova13">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=SMolodtsova13&show_icons=true&theme=tokyonight&hide_title=true" />
+</a>
