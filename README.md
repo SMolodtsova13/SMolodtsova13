@@ -2,7 +2,7 @@
 <h3 align='center'>Python Developer</h3>
 
 - 💻 I’m write in **python**
-- 📫 You can contact me by mail: ***<molodtsova201@yandex.ru>*
+- 📫 You can contact me by mail - **<molodtsova201@yandex.ru>** or TG - **<https://t.me/Smolodtsova>** 
 - 📑 My resume is on [**HeadHunter.ru**](https://spb.hh.ru/resume/cc7f3d88ff0dda3e090039ed1f4f4a424a7375)
 
 <h3> &#128736; My stack:</h3>
@@ -25,11 +25,3 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SMolodtsova13&theme=solarized_dark)
-
-
-<!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SMolodtsova13)](https://github.com/SMolodtsova13/github-readme-stats)
-<h3>My statistics:</h3>
-<a href="https://github-readme-stats.vercel.app/api?username=SMolodtsova13&hide=contribs&show_icons=true">
-  <img  align="left" height="130" style="margin-right: 10px" src="https://github-readme-stats.vercel.app/api?username=SMolodtsova13&hide=contribs&show_icons=true" />
-</a>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SMolodtsova13)](https://github.com/SMolodtsova13/github-readme-stats) -->
